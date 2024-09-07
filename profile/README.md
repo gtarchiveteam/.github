@@ -4,6 +4,7 @@ We are a group of ~~nerds~~ nostalgic hobbyists recreating the days of old Goril
 
 Our main project is [GTPatcher-Launcher](https://github.com/gtarchiveteam/GTPatcher-Launcher) where you can download and patch old builds of Gorilla Tag™, allowing you to go into lobbys and be monkeh on old versions.
 
+Please do note that we are not related to the similarly named project "Gorilla Tag Archive" which illegally redistributes the game.
 
 ## FAQ
 

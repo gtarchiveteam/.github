@@ -23,3 +23,10 @@ No. We actively deny any and all financial support related to our project(s). An
 #### Is this a clone/copy?/Will this go on applab?
 
 No and also no, we will not produce clones and will not provide any of our projects onto the Meta "App Lab" or "Store" ***ever***. If you ever see someone claiming to be us on any Meta platform or similar, they are not us.
+
+#### Why?
+Modern Gorilla Tag sucks!
+
+Despite its popularity increasing every year, the game's quality and effort has drastically gone down over time. Updates are commonly released very untested with unfinished features, easily exploitable networking code, low quality content, among other problems that plague this game in its modern state and deviate from Lemming's original vision for Gorilla Tag as it was when it was an indie game.
+
+For this reason, we created GTPatcher as a solution to play older versions of the game with friends, while avoiding the legal pitfalls that "clones" or "copies" (rebuilds of the Unity project distributed as a whole) create.

@@ -24,10 +24,6 @@ No. We actively deny any and all financial support related to our project(s). An
 
 No and also no, we will not produce clones and will not provide any of our projects onto the Meta "App Lab" or "Store" ***ever***. If you ever see someone claiming to be us on any Meta platform or similar, they are not us.
 
-#### Will you support builds before the public Steam release?
-
-Probably! We supported pre-alpha/prototype builds on the old web-based patcher before we switched to the Launcher and we have some unimplemented fields in our patch specifications related to non-Steam game versions, but we haven't done any work on this yet. Stay tuned! :)  
-
 #### Why?
 Modern Gorilla Tag sucks!
 

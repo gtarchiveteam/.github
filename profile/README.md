@@ -1,3 +1,5 @@
+# We now live on Codeberg. https://codeberg.org/GT-Archive-Team/GTPatcher-Launcher
+
 # GT Archive Team
 
 We are a group of ~~nerds~~ nostalgic hobbyists recreating the days of old Gorilla Tag™.
